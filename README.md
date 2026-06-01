@@ -17,12 +17,12 @@ This project analyzes website traffic data to understand user behavior and impro
 ## Project Structure
 Web_Traffic_Analytics_Project/
 
-analysis.py
-app.py
-data.csv
-requirements.txt
-README.md
-screenshots
+analysis.py,
+app.py,
+data.csv,
+requirements.txt,
+README.md,
+screenshots.
 
 ---
 
