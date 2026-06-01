@@ -1,0 +1,7 @@
+user_id,page,session_time,clicked,exit
+1,Home,30,Yes,No
+2,About,10,No,Yes
+3,Home,25,Yes,No
+4,Products,40,Yes,No
+5,Checkout,5,No,Yes
+6,Home,20,Yes,No
